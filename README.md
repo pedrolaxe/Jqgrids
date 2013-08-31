@@ -12,6 +12,6 @@ Jquery Grids Metro Style
   </pre></code>
   
 <p>
-For the Demo: <a href="http://jqgrids.phpsec.com.br/">Click Here</a>
+For the Demo: <a href="http://jqgrids.phpsec.com.br/index.html">Click Here</a>
 </p>
 
