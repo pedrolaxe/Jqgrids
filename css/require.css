@@ -1,0 +1,15 @@
+﻿body{
+    margin:0px;
+	font-family:Verdana, Geneva, sans-serif;
+	background:url(images/bg.jpg) center fixed;
+}
+.clear{
+	clear:both;
+}
+.center{
+	text-align:center;
+}
+.header{
+	margin-top:80px;
+}
+
