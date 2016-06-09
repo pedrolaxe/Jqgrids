@@ -1,7 +1,6 @@
 Jquery Grids Metro Style
 =======
 
-Jquery Grids Metro Style
 
 <p>To insert it in a page, use the following code to load the necessary files:</p>
 <pre><code>
