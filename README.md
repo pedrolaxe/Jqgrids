@@ -1,4 +1,4 @@
-Jquery Grids
+Jquery Grids Metro Style
 =======
 
 Jquery Grids Metro Style
@@ -9,3 +9,9 @@ Jquery Grids Metro Style
   &lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"&gt;&lt;/script&gt;
   &lt;script src="js/jqgrids.min.js" type="text/javascript"&gt;&lt;/script&gt;
   </pre></code>
+
+### DEMO
+http://pedrolaxe.github.io/Jqgrids/
+
+
+
