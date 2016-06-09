@@ -1,0 +1,92 @@
+﻿.metro-roxo { background:#5234AC;}
+.metro-verde {background:#008B17;}
+.metro-azul { background:#2573EB;}
+.metro-vermelho {background:#B21A41;}
+.metro-laranja { background:#D64D29;}
+.metro-info {background:#FFCC66;}
+
+.metro {
+	position:relative;
+    height:128px;
+    margin-right:10px;
+    margin-top:10px;
+    cursor:pointer;
+    float:left;
+    font-family: "Segoe UI Light","Segoe UI",Verdana, Tahoma, Arial;
+}
+
+.metro:hover {
+filter: alpha(opacity=80);
+opacity: 0.8;
+}
+
+.metro-panel {
+    clear:both;
+    width:1080px;
+	height:138px;
+	margin:0px auto;
+}
+
+.metro .imgsimple {
+    height:64px;
+    width:64px;
+    padding:20px 53px 10px 53px;
+    border:0px;
+    text-align:center;
+    float:left;
+    position:relative;
+}
+
+.metro .imgdouble {
+    float:left;
+    width:100%;
+    padding:20px 0px 10px 0px;
+    text-align:center;
+}
+
+.metro .imglabeled {
+    float:left;
+    padding:30px 0px 0px 10px;
+    text-align:left;
+}
+
+.metro span {
+    position:relative;
+    height:20px;
+    text-decoration:none;
+    color:rgba(255, 255, 255, 1.0);
+    float:left;
+    text-align:center;
+    clear:both;
+    width:100%;
+    bottom:0px;
+}
+
+.metro .metrolabel {
+    text-decoration:none;
+    color:rgba(255, 255, 255, 1.0);
+    float:left;
+    text-align:center;
+    font-size:28px;
+    margin-top:40px;
+}
+
+.metro span:hover {
+}
+
+.metrosingle {
+    width:170px;
+}
+
+.metrodouble {
+    width:350px;
+}
+
+.metro-destaque-rodape {
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:26px;
+	padding-top:4px;
+}

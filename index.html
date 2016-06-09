@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/jqgrids.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+    <script src="js/jqgrids.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#metroaqui").AddMetroSimpleButton('bt3', 'metro-vermelho', 'css/images/psh.png', 'Photoshop CS6', '#');
+            $("#metroaqui").AddMetroSingleLabeledButton('bt6', 'metro-roxo', 'css/images/email.png', '30', '#');
+      			$("#metroaqui").AddMetroDoubleButton('bt4', 'metro-azul', 'css/images/profile.png', 'Azul', 'alert("Azul");');
+      			$("#metroaqui_novo").AddMetroDoubleWithTrailer('bt6', 'metro-azul', 'css/images/profile.png', 'Button with Status Text', 'alert("Text");', 'metro-info');
+      			$("#metroaqui_novo").AddMetroDoubleWithTrailerWithBG('bt6', 'css/images/fundo_metro.png', 'Button with Status Text', 'alert("Text");', 'metro-azul');
+      			$("#metroaqui_novo").AddMetroSimpleButton('bt1', 'metro-verde', 'css/images/profile.png', 'Profile', '#');
+            $("#metroaqui_novo").AddMetroSimpleButton('bt2', 'metro-laranja', 'css/images/bolsa.png', 'Stocks', '#');
+            $("#metroaqui_novo").AddMetroDoubleButton('bt4', 'metro-azul', 'css/images/facebook.png', 'Facebook', '#');
+            $("#metroaqui_novo").AddMetroSimpleButton('bt5', 'metro-laranja', 'css/images/email.png', 'Mail', 'alert("mail");');
+		      	$("#metroaqui_novo").AddMetroSimpleButton('bt1', 'metro-verde', 'css/images/games.png', 'Games', '');
+            $("#metroaqui_novo").AddMetroSimpleButton('bt2', 'metro-laranja', 'css/images/iexplorer.png', 'Internet Explorer', '');
+		      	$("#metroaqui_novo").AddMetroSimpleButton('bt1', 'metro-verde', 'css/images/skydrive.png', 'Skydrive', '');
+        });
+    </script>
+</head>
+<body>
+
+    <div id="metroaqui_novo" class="metro-panel">
+	</div>
+    <div id="metroaqui" class="metro-panel"></div>
+
+</body>
+</html>

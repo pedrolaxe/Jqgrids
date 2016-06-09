@@ -1,0 +1,7 @@
+﻿body{
+  background: url('images/bg.jpg') center no-repeat;
+  margin:0px;
+	font-family:Verdana, Tahoma;
+}
+.clear { clear:both; }
+.center { text-align:center;}
