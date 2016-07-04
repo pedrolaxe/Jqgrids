@@ -9,5 +9,12 @@ Jquery Grids Metro Style
   &lt;script src="js/jqgrids.min.js" type="text/javascript"&gt;&lt;/script&gt;
   </pre></code>
 
+### With CDN
+<pre><code>
+  &lt;link rel="stylesheet" href="https://cdn.rawgit.com/pedrolaxe/Jqgrids/master/css/jqgrids.min.css"&gt;
+  &lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script src="https://cdn.rawgit.com/pedrolaxe/Jqgrids/master/js/jqgrids.min.js" type="text/javascript"&gt;&lt;/script&gt;
+  </pre></code>
+
 ### DEMO
 http://pedrolaxe.github.io/Jqgrids/
